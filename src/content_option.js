@@ -7,11 +7,14 @@ const meta = {
 const introdata = {
     title: "I’m Jan",
     animated: {
-        first: "I learn coding",
+        first: "I learn Python",
+        secondfirst: "I learn SQL",
         second: "I learn Data Analysis",
-        third: "I learn Data Science",
-        fourth: "I learn Data Visualization",
-        fifth: "I learn Data.",
+        third: "I learn Data Visualization",
+        fourth: "I learn Data Analytics",
+        fifth: "I learn Data Science",
+        sixth: "I learn Data Engeneering.",
+        seventh: "I learn Data.",
     },
     description: "Math Student with a Statistics Background and real experience in Python, R and SQL.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
