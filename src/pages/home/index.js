@@ -28,8 +28,13 @@ export const Home = () => {
                     options={{
                       strings: [
                         introdata.animated.first,
+                        introdata.animated.secondfirst,                    
                         introdata.animated.second,
                         introdata.animated.third,
+                        introdata.animated.fourth,
+                        introdata.animated.fifth,
+                        introdata.animated.sixth,
+                        introdata.animated.seventh,
                       ],
                       autoStart: true,
                       loop: true,
